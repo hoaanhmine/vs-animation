@@ -3159,8 +3159,8 @@ class PlayState extends MusicBeatState
 	public function updateScore(miss:Bool = false)
 	{
 		scoreTxt.text = 'Score: ' + songScore
-		+ ' | Ported by HMFNF| Combo Breaks : ' + songMisses
-		+ ' | Rating: ' + ratingName
+		+ ' | Combos Breaks: ' + songMisses
+		+ ' | HMFNF port | Rating: ' + ratingName
 		+ (ratingName != '?' ? ' (${Highscore.floorDecimal(ratingPercent * 100, 2)}%) - $ratingFC' : '');
 
 		if(ClientPrefs.scoreZoom && !miss && !cpuControlled)
