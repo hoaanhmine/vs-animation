@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["repeater", "yellow", [146, 113, 253]],
+		["unwelcomed", "red", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Stickman",
+	"difficulties": "normal,hard",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": true ,
+	"hideFreeplay": false
+}

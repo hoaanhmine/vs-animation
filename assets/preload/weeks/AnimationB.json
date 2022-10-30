@@ -1,0 +1,58 @@
+{
+	"songs": [
+		[
+			"dud",
+			"dud",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"guitar-wars",
+			"chicken",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"beestick",
+			"beestick",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"fallen",
+			"victim",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

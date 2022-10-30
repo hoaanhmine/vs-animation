@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fallenbgANIMATED.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fallenbg0000" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="fallenbg0001" x="1920" y="0" width="1920" height="1080"/>
+	<SubTexture name="fallenbg0002" x="0" y="1080" width="1920" height="1080"/>
+	<SubTexture name="fallenbg0003" x="1920" y="1080" width="1920" height="1080"/>
+	<SubTexture name="fallenbg0004" x="0" y="2160" width="1920" height="1080"/>
+</TextureAtlas>
