@@ -1,6 +1,6 @@
-AnimationB
-AnimationB2
-AnimationB3
-AnimationS
-AnimationS2
 AnimationS3
+AnimationS2
+AnimationS
+AnimationB3
+AnimationB2
+AnimationB
